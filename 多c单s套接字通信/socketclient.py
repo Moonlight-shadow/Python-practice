@@ -1,4 +1,5 @@
 #coding:utf-8
+"""socket客户端，只负责发数据"""
 import socket
 #HOST='192.168.100.12'
 PORT=50007

@@ -1,4 +1,5 @@
 #coding:utf-8
+"""创建线程，接受从socket客户端发过来的字符串"""
 import threading
 class mythread(threading.Thread):
     def __init__(self,conn,addr):
