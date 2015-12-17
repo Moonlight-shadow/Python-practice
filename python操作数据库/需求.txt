@@ -1,0 +1,16 @@
+capacity
+1）添加一条记录
+2）根据ip查询，avai和used
+3）根据ip，更新avai和used
+files
+1）添加一个新文件(size字段不用设置，只要添加hostid 和filename就可以)
+2）文件大小的设置,根据hostid filename
+
+
+多表查询
+
+1）根据文件名查询所在电脑的ip
+
+
+
+
